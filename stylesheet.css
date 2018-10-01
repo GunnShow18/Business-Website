@@ -1,0 +1,110 @@
+.jumbotron {background: url(ppatch.jpg);
+            background-size: 100%;
+            background-repeat: no-repeat;
+        color: white;}
+
+.jumbotronau {background: url(blkpumpkins.jpeg);
+            background-size: 100%;
+            background-repeat: no-repeat;
+        color: white;
+        text-align: center;}
+
+.jumbotronc {background: url(pumpvariety.jpeg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-color: rgba(255, 255, 255, 0.25);
+color: white;
+    text-align: center;}
+
+
+.indexbody {background-color: white;
+    background-repeat: no-repeat;
+    background-position: left;}
+
+
+
+.aboutusbody {background-color:#1D262F;
+            }
+
+.contactbody {background-color:white;
+}
+
+.containeraboutus {background: url(blk-pkin.jpeg);
+            background-repeat: repeat-y;
+            background-size: 50%;
+            background-position: right;
+            }
+
+.containerindex {background: url(vegbackg.jpeg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.containercontact {background: url(3pumpk.jpeg);
+    background-repeat: repeat;
+    background-size: 50%;
+    background-position: center;
+    }
+
+.pjumindex {background-color: rgba(0, 0, 0, 0.37);
+            color: white;}
+
+.pjumaboutus {background-color:rgba(49, 49, 49, 0.5);
+    color: rgb(145, 144, 144);
+    font-display: bold;
+    text-align: center;
+}
+
+.pjumcontact {background-color: rgba(0, 0, 0, 0.37);
+    color: white;}
+
+
+.pbody {background-color:rgba(94, 93, 93, 0.10);
+color: black;
+font-display: bold;
+font-family: Georgia;}
+
+.pbodyaboutus {background-color:rgba(94, 93, 93, 0.37);
+    color: gray;
+    font-display: bold;
+    font-family: georgia;}
+
+.pbodycontact {background-color:rgba(94, 93, 93, 0.37);
+    color: gray;
+    font-display: bold;
+    font-family: georgia;}
+
+.h1index {background-color:rgba(0, 0, 0, 0.37);
+    color: white;
+    font-display: bold;
+}
+
+
+.h1aboutus {background-color:rgba(49, 49, 49, 0.5);
+    color: gray;
+    font-display: bold;
+    text-align: center;
+}
+
+
+.h1contact {background-color:rgba(0, 0, 0, 0.37);
+    color: white;
+    font-display: bold;
+    text-align: center;
+}
+
+
+.h2index {background-color:rgba(94, 93, 93, 0.15);
+    color: black;
+    font-display: bold;
+    font-family: georgia;}
+
+.h2aboutus {background-color:rgba(94, 93, 93, 0.50);
+    color: gray;
+    font-display: bold;
+    font-family: georgia;}
+
+.h2contact  {background-color:rgba(94, 93, 93, 0.15);
+    color: black;
+    font-display: bold;
+    font-family: georgia;}
